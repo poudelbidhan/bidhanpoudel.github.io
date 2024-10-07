@@ -12,7 +12,7 @@ title                    : "Bidhan's Homepage"
 title_separator          : "-"
 name                     : &name "Bidhan Poudel"
 description              : &description "Digital IC Design Engineer"
-url                      :https://poudelbidhan.github.io/bidhanpoudel.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :https://poudelbidhan.github.io/bidhanpoudel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
